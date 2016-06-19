@@ -146,11 +146,12 @@
 
          .iw_poi_title {
                         color: #CC5522;
-                        font-size: 14px;
+                        font-size: 18px;
                         font-weight: bold;
                         overflow: hidden;
                         padding-right: 13px;
                         white-space: nowrap;
+                        margin-top: -10px;
                     }
 
                     .iw_poi_content {
@@ -159,4 +160,5 @@
                         padding-top: 4px;
                         white-space: -moz-pre-wrap;
                         word-wrap: break-word;
+                        margin-top: 10px;
                     }
